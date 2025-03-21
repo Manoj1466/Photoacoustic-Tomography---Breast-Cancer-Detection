@@ -34,13 +34,8 @@ Prerequisites
 Ensure you have the following installed:
 
 Python 3.12
-
 TensorFlow
-
 OpenCV
-
 NumPy
-
 Django
-
 MySQL
